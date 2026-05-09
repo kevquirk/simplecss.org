@@ -1,2 +1,3 @@
-# simple.css
-A classless CSS template that allows you to get a good looking, functional site up and running very quickly.
+# Simple.css Website
+
+This is the website for the Simple.css project, hosted at [simplecss.org](https://simplecss.org).
